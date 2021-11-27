@@ -9,7 +9,7 @@ public class BetterJump : MonoBehaviour
 
     public Rigidbody rb;
 
-    
+    //blablabla
 
     // Update is called once per frame
     void Update()
